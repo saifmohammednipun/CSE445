@@ -1,6 +1,6 @@
 # CSE445 Machine Learning
 
-## Online Lectures
+## Online Lectures (YouTube)
 * Stanford CS229: Machine Learning Full Course taught by Andrew Ng | Autumn 2018 - https://youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&si=-xinFF80TtWetxj2
 
 * Machine Learning Specialization by Andrew Ng - https://youtube.com/playlist?list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI&si=6vcdGXPYU7Xg6sx
