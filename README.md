@@ -1,5 +1,11 @@
 # CSE445 Machine Learning
 
+## Text Books
+* Aurélien Géron - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow_ Concepts, Tools, and Techniques to Build Intelligent Systems-O’Reilly Media (2019)
+
+## Readings
+* Stanford CS299 - https://stanford.edu/~shervine/teaching/cs-229/
+
 ## Online Lectures (YouTube)
 * Stanford CS229: Machine Learning Full Course taught by Andrew Ng | Autumn 2018 - https://youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&si=-xinFF80TtWetxj2
 
